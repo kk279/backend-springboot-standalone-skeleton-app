@@ -1,1 +1,1 @@
-# backend-springboot-standalone-skeleton-app
+spring-boot integration with h2-DB
